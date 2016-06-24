@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4EA3AB21631A154368CD1D9F1D9CDDE85AB8349E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : 0,
+    "4EA3AB21631A154368CD1D9F1D9CDDE85AB8349E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7978CC7D-A624-43E5-813B-AD935F323656",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : "..",
+    "4EA3AB21631A154368CD1D9F1D9CDDE85AB8349E" : "proj4\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Meme Generator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Meme Generator\/Meme Generator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/ios-decal-proj-4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EA3AB21631A154368CD1D9F1D9CDDE85AB8349E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/coursework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A8260770A8678C3FA579093D4E5D2B2E530AD0E"
+    }
+  ]
+}

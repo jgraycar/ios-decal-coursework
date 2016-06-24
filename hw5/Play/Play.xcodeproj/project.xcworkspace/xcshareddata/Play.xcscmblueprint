@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "07852B4534BB21813FC4F1AE997BC463519476E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : 0,
+    "07852B4534BB21813FC4F1AE997BC463519476E8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9E27A8CE-AA50-456C-A50E-75591B2C234F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : "..",
+    "07852B4534BB21813FC4F1AE997BC463519476E8" : "hw5\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Play",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Play\/Play.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/ios-decal-hw5.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07852B4534BB21813FC4F1AE997BC463519476E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/coursework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A8260770A8678C3FA579093D4E5D2B2E530AD0E"
+    }
+  ]
+}

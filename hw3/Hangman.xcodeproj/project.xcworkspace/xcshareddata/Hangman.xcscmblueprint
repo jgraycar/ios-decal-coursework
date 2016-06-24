@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : 0,
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BB0CD8CB-F225-4D9F-91C6-72EA1D6BDE19",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : "hw3\/",
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hangman",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hangman.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/coursework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A8260770A8678C3FA579093D4E5D2B2E530AD0E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/ios-decal-hw3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F"
+    }
+  ]
+}

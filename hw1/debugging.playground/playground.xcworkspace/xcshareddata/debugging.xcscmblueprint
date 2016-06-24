@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : 0,
+    "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D1CDA721-1F9F-4859-8A61-692D31B5532A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : "..",
+    "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200" : "hw1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "debugging",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "debugging.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/coursework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A8260770A8678C3FA579093D4E5D2B2E530AD0E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/ios-decal-hw1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEBF1BC6FCC881B0EA39E5A4F1560647A26B1200"
+    }
+  ]
+}

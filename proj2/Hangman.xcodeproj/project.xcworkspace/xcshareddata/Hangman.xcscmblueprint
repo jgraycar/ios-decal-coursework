@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "22932C4DA1B2AE9C5D8983015CF2634FF70E18BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : 0,
+    "22932C4DA1B2AE9C5D8983015CF2634FF70E18BA" : 0,
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BB0CD8CB-F225-4D9F-91C6-72EA1D6BDE19",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : "hw3\/",
+    "22932C4DA1B2AE9C5D8983015CF2634FF70E18BA" : "proj2\/",
+    "6A8260770A8678C3FA579093D4E5D2B2E530AD0E" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hangman",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hangman.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/ios-decal-proj2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22932C4DA1B2AE9C5D8983015CF2634FF70E18BA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/coursework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A8260770A8678C3FA579093D4E5D2B2E530AD0E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jgraycar\/ios-decal-hw3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F"
+    }
+  ]
+}
